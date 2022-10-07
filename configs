@@ -1,0 +1,8 @@
+# trlx
+ A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)
+ added printed logging to ppo, ilql
+ verified pipelines
+ temp
+ remove clear cache
+ fixing style
+ removing extra configs
